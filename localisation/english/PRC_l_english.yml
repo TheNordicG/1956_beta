@@ -567,7 +567,7 @@
  PRC_excavation_NW_desc:0 "We must prospect for more resources in our land so that we can become independent from imported resources."
 
  PRC_industrialization_S:0 "Local Industrialization : South"
- PRC_industrialization_S_desc:0 "The South may be one of the most industrialized are, but it can be much more improved."
+ PRC_industrialization_S_desc:0 "The South may be one of the most industrialized areas, but it can be improved even more."
 
  PRC_excavation_S:0 "Rubber Plantation"
  PRC_excavation_S_desc:0 "The climate in the south is quite suitable for setting up some rubber plantations."
